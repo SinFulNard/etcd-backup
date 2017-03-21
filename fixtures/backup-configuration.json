@@ -1,7 +1,7 @@
 {
   "concurrentRequests": 50,
   "retries": 5,
-  "etcdConfigPath": "fixtures/etcd-dump.json",
+  "etcdConfigPath": "fixtures/etcd-configuration.json",
   "dumpFilePath": "dump.json",
   "backupStrategy": {
     "keys": ["/keys/all"],
